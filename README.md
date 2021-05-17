@@ -2,8 +2,12 @@
 
 ![Github Actions Status](https://github.com/ocordes/jupyterlab_notebookbuttons/workflows/Build/badge.svg)[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ocordes/jupyterlab_notebookbuttons/main?urlpath=lab)
 
-Missing buttons for JupyterLab
+A JupyterLab extension to add some missing buttons for Jupyter Notebooks:
+ * Delete selected cells (trash)
+ * Run all cells without restarting the kernel (big fast forward)
+ * Delete all outputs (snowplug)
 
+![](https://raw.githubusercontent.com/ocordes/jupyterlab_notebookbuttons/master/demo_small.png)
 
 
 ## Requirements

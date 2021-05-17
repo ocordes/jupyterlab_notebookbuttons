@@ -1,0 +1,32 @@
+{
+    "title": "Notebook buttons",
+    "description": "Missing Notebook buttons.",
+    "properties": {
+        "insertbefore": {
+            "type": "string",
+            "title": "Buttons will be inserted before this name",
+            "description": "The default buttons are called: [save insert cut copy paste run interrupt restart restart-and-run cellType spacer kernelName kernelStatus]",
+            "default": "spacer"
+        },
+        "runall": {
+            "type": "boolean",
+            "title": "Run all cells",
+            "description": "Whether to show the \"Run all cells\" button",
+            "default": true
+        },
+        "deletecells": {
+            "type": "boolean",
+            "title": "Remove selected cells",
+            "description": "Whether to show the \"Remove selected cells\" button",
+            "default": false
+        },
+        "clearalloutputs": {
+            "type": "boolean",
+            "title": "Clear all outputs",
+            "description": "Whether to show the \"Clear all outputs\" button",
+            "default": true
+        }
+    },
+    "additionalProperties": false,
+    "type": "object"
+}

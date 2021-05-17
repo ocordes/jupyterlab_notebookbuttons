@@ -62,7 +62,8 @@ jobs:
         python -m build --sdist
         cp dist/*.tar.gz myextension.tar.gz
         pip uninstall -y myextension jupyterlab
-        popd
+        # for what ever that was inserted 
+        # popd
         rm -rf myextension
 
     - uses: actions/upload-artifact@v2
