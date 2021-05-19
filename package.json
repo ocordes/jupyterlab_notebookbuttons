@@ -50,7 +50,7 @@
     "@jupyterlab/apputils": "^3.0.8",
     "@jupyterlab/docregistry": "^3.0.10",
     "@jupyterlab/notebook": "^3.0.10",
-    "@jupyterlab/settingregistry": "^3.0.5",
+    "@jupyterlab/settingregistry": "^3.0.6",
     "@lumino/disposable": "^1.7.0"
   },
   "devDependencies": {
