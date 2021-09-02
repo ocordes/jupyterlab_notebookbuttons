@@ -1,6 +1,6 @@
 {
   "name": "jupyterlab_notebookbuttons",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Add missing buttons for Jupyter Notebooks in JupyterLab",
   "keywords": [
     "jupyter",
