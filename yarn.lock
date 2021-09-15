@@ -510,25 +510,12 @@
     node-fetch "^2.6.0"
     ws "^7.4.6"
 
-"@jupyterlab/settingregistry@^3.1.10":
-  version "3.1.10"
-  resolved "https://registry.yarnpkg.com/@jupyterlab/settingregistry/-/settingregistry-3.1.10.tgz#4466dd5dc9eac3291502d1aad19a7f53484965c5"
-  integrity sha512-yN71VbFczHX2QoYm/aIqnY1TNGBIs2lpaSkSqAQI/LHkb5jl28jGfX6gfiFgNZ1eJzmZYYMP/BxRJM0lwepkPA==
+"@jupyterlab/settingregistry@^3.1.10", "@jupyterlab/settingregistry@^3.1.11":
+  version "3.1.11"
+  resolved "https://registry.yarnpkg.com/@jupyterlab/settingregistry/-/settingregistry-3.1.11.tgz#a1bb425774f50b2e056a9975acd0008a942883d6"
+  integrity sha512-oUZeDFFCk3q4HYL1kzeekbf0vSI80BPJHQhU6uvZXdsWONNEt52CTPapL2SKlHzaKY0d3X3qT3hUYnuOLO6foA==
   dependencies:
-    "@jupyterlab/statedb" "^3.1.10"
-    "@lumino/commands" "^1.12.0"
-    "@lumino/coreutils" "^1.5.3"
-    "@lumino/disposable" "^1.4.3"
-    "@lumino/signaling" "^1.4.3"
-    ajv "^6.12.3"
-    json5 "^2.1.1"
-
-"@jupyterlab/settingregistry@^3.1.9":
-  version "3.1.9"
-  resolved "https://registry.yarnpkg.com/@jupyterlab/settingregistry/-/settingregistry-3.1.9.tgz#e61c19bda1808b5ef5d666676dce4eb9765ee3fc"
-  integrity sha512-UCmb9gB0xQxbU+sZGZPMQunjBC8S0wbOiM6b79RDgHRSGdzXtkLmEPMUZylTp2DBExDIkHNcNmqKRqoMl+stsA==
-  dependencies:
-    "@jupyterlab/statedb" "^3.1.9"
+    "@jupyterlab/statedb" "^3.1.11"
     "@lumino/commands" "^1.12.0"
     "@lumino/coreutils" "^1.5.3"
     "@lumino/disposable" "^1.4.3"
@@ -548,10 +535,10 @@
     y-protocols "^1.0.5"
     yjs "^13.5.6"
 
-"@jupyterlab/statedb@^3.1.10", "@jupyterlab/statedb@^3.1.9":
-  version "3.1.10"
-  resolved "https://registry.yarnpkg.com/@jupyterlab/statedb/-/statedb-3.1.10.tgz#be5a8c31753b72b3992c61719c4326ccbec7fcf5"
-  integrity sha512-Rq1ZJ/v6X6qUhcttHs3COD83v5OSoPTQzRTQXVLzyud7p8p+vfBoX18WoHvdaRMbqX0KHZNDZOk0fByeIakzSQ==
+"@jupyterlab/statedb@^3.1.10", "@jupyterlab/statedb@^3.1.11":
+  version "3.1.11"
+  resolved "https://registry.yarnpkg.com/@jupyterlab/statedb/-/statedb-3.1.11.tgz#670137c34d0f75f9316dca3a1dadde9ec944d787"
+  integrity sha512-kSRacAHTmDekaQS+kkBVX7lAJaEVrdYBfQyi+wl/tpYgOmRRkZ0VoyODcsHhbNw527r9BDUJNikMJIlUY/ZxSQ==
   dependencies:
     "@lumino/commands" "^1.12.0"
     "@lumino/coreutils" "^1.5.3"
