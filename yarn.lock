@@ -510,12 +510,12 @@
     node-fetch "^2.6.0"
     ws "^7.4.6"
 
-"@jupyterlab/settingregistry@^3.1.11", "@jupyterlab/settingregistry@^3.1.9":
-  version "3.1.11"
-  resolved "https://registry.yarnpkg.com/@jupyterlab/settingregistry/-/settingregistry-3.1.11.tgz#a1bb425774f50b2e056a9975acd0008a942883d6"
-  integrity sha512-oUZeDFFCk3q4HYL1kzeekbf0vSI80BPJHQhU6uvZXdsWONNEt52CTPapL2SKlHzaKY0d3X3qT3hUYnuOLO6foA==
+"@jupyterlab/settingregistry@^3.1.11", "@jupyterlab/settingregistry@^3.1.13":
+  version "3.1.13"
+  resolved "https://registry.yarnpkg.com/@jupyterlab/settingregistry/-/settingregistry-3.1.13.tgz#80cbe0611288d782fd027529542522afa89a8681"
+  integrity sha512-IcgdAt6Rd95R1WXvUYxggLyWJSqi/K+xVq4iP0+BjhXRnxaeQQzRfkGcS6VcA4tnnLlndUW4GLFTFpyJY3bl6A==
   dependencies:
-    "@jupyterlab/statedb" "^3.1.11"
+    "@jupyterlab/statedb" "^3.1.13"
     "@lumino/commands" "^1.12.0"
     "@lumino/coreutils" "^1.5.3"
     "@lumino/disposable" "^1.4.3"
@@ -535,10 +535,10 @@
     y-protocols "^1.0.5"
     yjs "^13.5.6"
 
-"@jupyterlab/statedb@^3.1.11":
-  version "3.1.11"
-  resolved "https://registry.yarnpkg.com/@jupyterlab/statedb/-/statedb-3.1.11.tgz#670137c34d0f75f9316dca3a1dadde9ec944d787"
-  integrity sha512-kSRacAHTmDekaQS+kkBVX7lAJaEVrdYBfQyi+wl/tpYgOmRRkZ0VoyODcsHhbNw527r9BDUJNikMJIlUY/ZxSQ==
+"@jupyterlab/statedb@^3.1.11", "@jupyterlab/statedb@^3.1.13":
+  version "3.1.13"
+  resolved "https://registry.yarnpkg.com/@jupyterlab/statedb/-/statedb-3.1.13.tgz#02baefcd5a805cfd2fcb470bcc2fa4194215b98f"
+  integrity sha512-MZfNc5FpPv7VxOj2WR0RgIgRi/qsYqJieny8A9p+llL7haiW9vp94zaudIgn8elPDBnLMEwawn7KT2AQ8hSNdA==
   dependencies:
     "@lumino/commands" "^1.12.0"
     "@lumino/coreutils" "^1.5.3"
@@ -595,9 +595,10 @@
     react-dom "^17.0.1"
     typestyle "^2.0.4"
 
-"@lumino/algorithm@^1.3.3", "@lumino/algorithm@^1.6.0", "@lumino/algorithm@^1.6.2":
-  version "1.6.2"
-  resolved "https://registry.npmjs.org/@lumino/algorithm/-/algorithm-1.6.2.tgz"
+"@lumino/algorithm@^1.3.3", "@lumino/algorithm@^1.6.0", "@lumino/algorithm@^1.7.0":
+  version "1.7.0"
+  resolved "https://registry.yarnpkg.com/@lumino/algorithm/-/algorithm-1.7.0.tgz#5626652ad0ef5b3a060bec1cdd3b41d628bd663f"
+  integrity sha512-nF1sdg/fvk1uHw/FOsGPFCIS4srGs6H/e2Xf4+HNY/i5RwCQU7mwyBWvSmpiRG0byg82kxffkS3dooqg7v7EyQ==
 
 "@lumino/application@^1.16.0":
   version "1.20.0"
@@ -629,12 +630,13 @@
   version "1.8.0"
   resolved "https://registry.npmjs.org/@lumino/coreutils/-/coreutils-1.8.0.tgz"
 
-"@lumino/disposable@^1.4.3", "@lumino/disposable@^1.7.0", "@lumino/disposable@^1.7.2":
-  version "1.7.2"
-  resolved "https://registry.npmjs.org/@lumino/disposable/-/disposable-1.7.2.tgz"
+"@lumino/disposable@^1.4.3", "@lumino/disposable@^1.7.0", "@lumino/disposable@^1.8.0":
+  version "1.8.0"
+  resolved "https://registry.yarnpkg.com/@lumino/disposable/-/disposable-1.8.0.tgz#0e903c83a2c18ed939f3de9a0c155baedeceb414"
+  integrity sha512-KnYkPd1/Mq8lULV2Iu0H33wmQLZB7UDpCfEqK/vU3WGGHKwirmbuwA8A1ym+YEHfzDAns0rxaMtYkmd6ahhJ6w==
   dependencies:
-    "@lumino/algorithm" "^1.6.2"
-    "@lumino/signaling" "^1.7.2"
+    "@lumino/algorithm" "^1.7.0"
+    "@lumino/signaling" "^1.8.0"
 
 "@lumino/domutils@^1.2.3", "@lumino/domutils@^1.5.0":
   version "1.5.0"
@@ -670,11 +672,12 @@
   version "1.5.0"
   resolved "https://registry.npmjs.org/@lumino/properties/-/properties-1.5.0.tgz"
 
-"@lumino/signaling@^1.4.3", "@lumino/signaling@^1.7.0", "@lumino/signaling@^1.7.2":
-  version "1.7.2"
-  resolved "https://registry.npmjs.org/@lumino/signaling/-/signaling-1.7.2.tgz"
+"@lumino/signaling@^1.4.3", "@lumino/signaling@^1.7.0", "@lumino/signaling@^1.8.0":
+  version "1.8.0"
+  resolved "https://registry.yarnpkg.com/@lumino/signaling/-/signaling-1.8.0.tgz#46c0f8181a691211fa13db6b35383e3f5149cccc"
+  integrity sha512-J+mTjz6xCu0MKqlC5uuUq4EWJlmGLxLArzQsrELg7hGOpc0gYDiUAY6fkI9Jhb8OfCw12YD31dvyG8f1kLIrxg==
   dependencies:
-    "@lumino/algorithm" "^1.6.2"
+    "@lumino/algorithm" "^1.7.0"
 
 "@lumino/virtualdom@^1.11.0", "@lumino/virtualdom@^1.8.0":
   version "1.11.0"
