@@ -187,7 +187,7 @@
     "@lumino/disposable" "^1.4.3"
     "@lumino/signaling" "^1.4.3"
 
-"@jupyterlab/builder@^3.1.14":
+"@jupyterlab/builder@^3.1.18":
   version "3.1.18"
   resolved "https://registry.yarnpkg.com/@jupyterlab/builder/-/builder-3.1.18.tgz#30c7b473db076c5899b5bf09e2eee86581235ac4"
   integrity sha512-7WfT0EgDDl9jI/U4Mj7a87a/Ig9CqYsSZb/yUTJ60OhXLe01T4n03OcrbvuGimDUpOPSLVMCF5ybM1l0q8U7mg==
