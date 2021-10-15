@@ -122,21 +122,21 @@
     gud "^1.0.0"
     warning "^4.0.3"
 
-"@jupyterlab/application@^3.1.17":
-  version "3.1.17"
-  resolved "https://registry.yarnpkg.com/@jupyterlab/application/-/application-3.1.17.tgz#137ae63fe1af4b0e6fa27c71421de4e396e9a33c"
-  integrity sha512-0Gs0P3WKrGxc3Wr60GBV/EVOL3EW8HTFox/pi1+sU3Jvs2qMkgeg4mf14vIs+Yv36n4ylUlssU81QpBQ2Rjm6Q==
+"@jupyterlab/application@^3.2.0":
+  version "3.2.0"
+  resolved "https://registry.yarnpkg.com/@jupyterlab/application/-/application-3.2.0.tgz#e8b8cdeca108b3b48a5a8c3a8b1ca390d51058a7"
+  integrity sha512-KdM7Z4q2S92oT5+Qiri5jc92uayb499HTNMR3y+MgsVwITlboYM675gXDhE4KXaRY8NneR6JZeCVqPTAP43KWg==
   dependencies:
     "@fortawesome/fontawesome-free" "^5.12.0"
-    "@jupyterlab/apputils" "^3.1.17"
-    "@jupyterlab/coreutils" "^5.1.17"
-    "@jupyterlab/docregistry" "^3.1.17"
-    "@jupyterlab/rendermime" "^3.1.17"
-    "@jupyterlab/rendermime-interfaces" "^3.1.17"
-    "@jupyterlab/services" "^6.1.17"
-    "@jupyterlab/statedb" "^3.1.17"
-    "@jupyterlab/translation" "^3.1.17"
-    "@jupyterlab/ui-components" "^3.1.17"
+    "@jupyterlab/apputils" "^3.2.0"
+    "@jupyterlab/coreutils" "^5.2.0"
+    "@jupyterlab/docregistry" "^3.2.0"
+    "@jupyterlab/rendermime" "^3.2.0"
+    "@jupyterlab/rendermime-interfaces" "^3.2.0"
+    "@jupyterlab/services" "^6.2.0"
+    "@jupyterlab/statedb" "^3.2.0"
+    "@jupyterlab/translation" "^3.2.0"
+    "@jupyterlab/ui-components" "^3.2.0"
     "@lumino/algorithm" "^1.3.3"
     "@lumino/application" "^1.16.0"
     "@lumino/commands" "^1.12.0"
