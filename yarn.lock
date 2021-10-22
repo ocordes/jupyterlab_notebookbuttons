@@ -122,21 +122,21 @@
     gud "^1.0.0"
     warning "^4.0.3"
 
-"@jupyterlab/application@^3.2.0":
-  version "3.2.0"
-  resolved "https://registry.yarnpkg.com/@jupyterlab/application/-/application-3.2.0.tgz#e8b8cdeca108b3b48a5a8c3a8b1ca390d51058a7"
-  integrity sha512-KdM7Z4q2S92oT5+Qiri5jc92uayb499HTNMR3y+MgsVwITlboYM675gXDhE4KXaRY8NneR6JZeCVqPTAP43KWg==
+"@jupyterlab/application@^3.2.1":
+  version "3.2.1"
+  resolved "https://registry.yarnpkg.com/@jupyterlab/application/-/application-3.2.1.tgz#1ac2eaea07a2968201cdbc47c53f38afbe2e0ef8"
+  integrity sha512-5+mL1w7bomKr0TmXYazsOkVVjaejoYBHca9w6TueHZSUtev0lvGdJJZKKKhhzsnm49bN3Nay4VLLM0Cv1LHR9Q==
   dependencies:
     "@fortawesome/fontawesome-free" "^5.12.0"
-    "@jupyterlab/apputils" "^3.2.0"
-    "@jupyterlab/coreutils" "^5.2.0"
-    "@jupyterlab/docregistry" "^3.2.0"
-    "@jupyterlab/rendermime" "^3.2.0"
-    "@jupyterlab/rendermime-interfaces" "^3.2.0"
-    "@jupyterlab/services" "^6.2.0"
-    "@jupyterlab/statedb" "^3.2.0"
-    "@jupyterlab/translation" "^3.2.0"
-    "@jupyterlab/ui-components" "^3.2.0"
+    "@jupyterlab/apputils" "^3.2.1"
+    "@jupyterlab/coreutils" "^5.2.1"
+    "@jupyterlab/docregistry" "^3.2.1"
+    "@jupyterlab/rendermime" "^3.2.1"
+    "@jupyterlab/rendermime-interfaces" "^3.2.1"
+    "@jupyterlab/services" "^6.2.1"
+    "@jupyterlab/statedb" "^3.2.1"
+    "@jupyterlab/translation" "^3.2.1"
+    "@jupyterlab/ui-components" "^3.2.1"
     "@lumino/algorithm" "^1.3.3"
     "@lumino/application" "^1.16.0"
     "@lumino/commands" "^1.12.0"
@@ -580,18 +580,7 @@
     y-protocols "^1.0.5"
     yjs "^13.5.6"
 
-"@jupyterlab/statedb@^3.2.0":
-  version "3.2.0"
-  resolved "https://registry.yarnpkg.com/@jupyterlab/statedb/-/statedb-3.2.0.tgz#a243850bd20085979ec2e1111959d97106d0ba79"
-  integrity sha512-fVyOcW2O9ERUyA0G9nLIW1+GSS7NKP6G/i5lOdJ24GwxcPnhQMXACCkD+41P5L/ILok2adHwPKbKt3V+VheY+w==
-  dependencies:
-    "@lumino/commands" "^1.12.0"
-    "@lumino/coreutils" "^1.5.3"
-    "@lumino/disposable" "^1.4.3"
-    "@lumino/properties" "^1.2.3"
-    "@lumino/signaling" "^1.4.3"
-
-"@jupyterlab/statedb@^3.2.1":
+"@jupyterlab/statedb@^3.2.0", "@jupyterlab/statedb@^3.2.1":
   version "3.2.1"
   resolved "https://registry.yarnpkg.com/@jupyterlab/statedb/-/statedb-3.2.1.tgz#c2272beb4286b32b9af73c6d48aa652e345b3702"
   integrity sha512-YkKjY66uTK/7E4oCAigYCFRIqGud55qVMqgdbR13zPStFw/phjrSxpXQd/e9qYSh8M3DnDjoWOT9YjNP88gFpw==
