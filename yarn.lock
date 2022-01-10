@@ -188,12 +188,12 @@
     "@lumino/disposable" "^1.4.3"
     "@lumino/signaling" "^1.4.3"
 
-"@jupyterlab/builder@^3.2.5":
-  version "3.2.5"
-  resolved "https://registry.yarnpkg.com/@jupyterlab/builder/-/builder-3.2.5.tgz#f057f11eea760fdd30009477816db664ffa4ce17"
-  integrity sha512-AKqYVLmwSFFZacFlYIeS2EyrDpJ4JtXCLk2aZGudFv+DMULssz7aSdMf/1rEccLXgN2ovz3hRptxIKb6DnF6sw==
+"@jupyterlab/builder@^3.2.6":
+  version "3.2.6"
+  resolved "https://registry.yarnpkg.com/@jupyterlab/builder/-/builder-3.2.6.tgz#400b82aec84a2fa68d931dc4f5cbc6fab51c457c"
+  integrity sha512-7j/zTQNbS/jHg/gH12itIY4EqaK2FYNO1oBXAUWg8sTTI9crFTdaZf0dXFQLZ2xKV44vHO30RldNRKs++iOi0A==
   dependencies:
-    "@jupyterlab/buildutils" "^3.2.5"
+    "@jupyterlab/buildutils" "^3.2.6"
     "@lumino/algorithm" "^1.3.3"
     "@lumino/application" "^1.16.0"
     "@lumino/commands" "^1.12.0"
@@ -229,10 +229,10 @@
     webpack-merge "^5.1.2"
     worker-loader "^3.0.2"
 
-"@jupyterlab/buildutils@^3.2.5":
-  version "3.2.5"
-  resolved "https://registry.yarnpkg.com/@jupyterlab/buildutils/-/buildutils-3.2.5.tgz#013ea51efc0406931c4aa7e92a24110b5a7dbd29"
-  integrity sha512-++cicT9Dt9hVMh8xF4IR8C+o/A3VRrLyL190TX5YA0WwsdtuIZb8kNrA4WoCjInTa87uKpiH735d0vxJSzQKVQ==
+"@jupyterlab/buildutils@^3.2.6":
+  version "3.2.6"
+  resolved "https://registry.yarnpkg.com/@jupyterlab/buildutils/-/buildutils-3.2.6.tgz#f6f9e84b3dc5c7d8bc8ac01799c578afeefad43f"
+  integrity sha512-EW9X6B1YoUxUiSNyFf5LQq8zpq5oHBoM3WvKo8ID3qsCsyXLbPkTJkvwkvbmQfdu6KbrpAdbzI2ayce1m2ItJQ==
   dependencies:
     "@lumino/coreutils" "^1.5.3"
     "@yarnpkg/lockfile" "^1.1.0"
