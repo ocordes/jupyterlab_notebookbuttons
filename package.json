@@ -46,7 +46,7 @@
     "watch:labextension": "jupyter labextension watch ."
   },
   "dependencies": {
-    "@jupyterlab/application": "^3.2.6",
+    "@jupyterlab/application": "^3.2.8",
     "@jupyterlab/apputils": "^3.2.4",
     "@jupyterlab/docregistry": "^3.2.5",
     "@jupyterlab/notebook": "^3.2.6",
@@ -55,7 +55,7 @@
     "ansi-regex": "^6.0.1"
   },
   "devDependencies": {
-    "@jupyterlab/builder": "^3.2.6",
+    "@jupyterlab/builder": "^3.2.8",
     "@typescript-eslint/eslint-plugin": "^4.33.0",
     "@typescript-eslint/parser": "^4.33.0",
     "eslint": "^7.32.0",
