@@ -50,7 +50,7 @@
     "@jupyterlab/apputils": "^3.2.4",
     "@jupyterlab/docregistry": "^3.3.0",
     "@jupyterlab/notebook": "^3.3.2",
-    "@jupyterlab/settingregistry": "^3.2.5",
+    "@jupyterlab/settingregistry": "^3.3.3",
     "@lumino/disposable": "^1.10.1",
     "ansi-regex": "^6.0.1"
   },
