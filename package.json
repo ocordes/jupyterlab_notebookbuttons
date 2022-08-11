@@ -46,7 +46,7 @@
     "watch:labextension": "jupyter labextension watch ."
   },
   "dependencies": {
-    "@jupyterlab/application": "^3.3.4",
+    "@jupyterlab/application": "^3.4.5",
     "@jupyterlab/apputils": "^3.4.5",
     "@jupyterlab/docregistry": "^3.4.2",
     "@jupyterlab/notebook": "^3.4.5",
