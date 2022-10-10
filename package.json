@@ -47,22 +47,22 @@
   },
   "dependencies": {
     "@jupyterlab/application": "^3.4.5",
-    "@jupyterlab/apputils": "^3.4.5",
-    "@jupyterlab/docregistry": "^3.4.2",
+    "@jupyterlab/apputils": "^3.4.8",
+    "@jupyterlab/docregistry": "^3.4.8",
     "@jupyterlab/notebook": "^3.4.5",
     "@jupyterlab/settingregistry": "^3.4.2",
     "@lumino/disposable": "^1.10.1",
     "ansi-regex": "^6.0.1"
   },
   "devDependencies": {
-    "@jupyterlab/builder": "^3.4.3",
+    "@jupyterlab/builder": "^3.4.8",
     "@typescript-eslint/eslint-plugin": "^4.33.0",
     "@typescript-eslint/parser": "^4.33.0",
     "eslint": "^7.32.0",
     "eslint-config-prettier": "^8.5.0",
     "eslint-plugin-prettier": "^4.2.1",
     "npm-run-all": "^4.1.5",
-    "prettier": "^2.6.2",
+    "prettier": "^2.7.1",
     "rimraf": "^3.0.2",
     "typescript": "~4.3.5"
   },
