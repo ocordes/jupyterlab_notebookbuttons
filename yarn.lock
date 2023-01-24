@@ -578,12 +578,12 @@
     node-fetch "^2.6.0"
     ws "^7.4.6"
 
-"@jupyterlab/settingregistry@^3.4.2", "@jupyterlab/settingregistry@^3.5.0":
-  version "3.5.0"
-  resolved "https://registry.yarnpkg.com/@jupyterlab/settingregistry/-/settingregistry-3.5.0.tgz#2a6a0c2771c61643ab4aff9355ac863b4c8fc0ab"
-  integrity sha512-y9H9U4iMVfe2btImp5DR9mGAs36Sow0hI6ajK61bhHVJ4CumYdFBd8drrQGuYcyk/Y4ypU5HO9EaLBQU3CLCug==
+"@jupyterlab/settingregistry@^3.5.0", "@jupyterlab/settingregistry@^3.5.3":
+  version "3.5.3"
+  resolved "https://registry.yarnpkg.com/@jupyterlab/settingregistry/-/settingregistry-3.5.3.tgz#b961bd5829cf1b95df10b00bed0eb7edcf341e8a"
+  integrity sha512-PWkISgGHikSaOEOiPVIDCcnLdiuXAcFdI7ZPLWoaq0v+NykemenQ5+MXOEaEOgf3KUAE8PFAGNr+3indbwFXNw==
   dependencies:
-    "@jupyterlab/statedb" "^3.5.0"
+    "@jupyterlab/statedb" "^3.5.3"
     "@lumino/commands" "^1.19.0"
     "@lumino/coreutils" "^1.11.0"
     "@lumino/disposable" "^1.10.0"
@@ -603,10 +603,10 @@
     y-protocols "^1.0.5"
     yjs "^13.5.17"
 
-"@jupyterlab/statedb@^3.5.0":
-  version "3.5.0"
-  resolved "https://registry.yarnpkg.com/@jupyterlab/statedb/-/statedb-3.5.0.tgz#6118a7cf339a3d5f033b7b61c3480bfd9bb97a48"
-  integrity sha512-S4/BjcfSN8tGMyL4jjrD4TMoLTABI3zkLjaqSNRfT6iyKnqN8VKcMHBZXOq90uWGkw+caQZ5GiL+L7uEtahE4w==
+"@jupyterlab/statedb@^3.5.0", "@jupyterlab/statedb@^3.5.3":
+  version "3.5.3"
+  resolved "https://registry.yarnpkg.com/@jupyterlab/statedb/-/statedb-3.5.3.tgz#7d8fda70c315400a548eda16a418cd8d701de87a"
+  integrity sha512-QlFLcSzOJUjjwiXjgv5dQVHTRXXBT5+e/kJKVLddi80li/p0hBmKQHP+9e15Ql+i599uyoE6zE7lyMRPHrO98w==
   dependencies:
     "@lumino/commands" "^1.19.0"
     "@lumino/coreutils" "^1.11.0"
